@@ -142,4 +142,3 @@ References
 
 This project is submitted in partial fulfillment of the B.Tech degree requirements at **NIT Agartala**. All rights reserved by the authors.
 
-© 2025 Tanmay Das · © 2025 Soumyadeep Rakshit
